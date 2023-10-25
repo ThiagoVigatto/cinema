@@ -1,0 +1,21 @@
+*{
+    box-sizing: border-box;
+    padding: 0 auto;
+    margin: 0 auto;
+}
+body{
+    font-family: SANS SERIF;
+    font-size: 0 15px;
+}
+a{
+    color: white;
+    text-decoration: none;
+}
+.menu,
+.submenu{
+    list-style-type: none;
+}
+.logo{
+    font-size: 20px;
+    padding: 7,5px 10px 7.5px 0;
+}
